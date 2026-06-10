@@ -132,4 +132,4 @@ This project was developed as a practical Proof of Concept demonstrating:
 [](https://github.com/Spandit11/ai-incident-management-system#connect)
 
 - LinkedIn: [https://www.linkedin.com/in/sourabh-pandit-b2570212](https://www.linkedin.com/in/sourabh-pandit-b2570212)
-- GitHub: [https://github.com/Spandit11/ai-incident-management-system](https://github.com/Spandit11/ai-incident-management-system)
+- GitHub: [https://github.com/Spandit11/ai-powered-resume-assistant](https://github.com/Spandit11/ai-powered-resume-assistant)
