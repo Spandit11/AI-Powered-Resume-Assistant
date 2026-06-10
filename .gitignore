@@ -1,0 +1,39 @@
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+.env.* 
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter and IPython files
+.ipynb_checkpoints
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+
+# Log files
+*.log
+
+# Microsoft Office / PDF temp output
+*.docx
+*.pdf
+
+# Screenshots - allow specific images if needed by modifying below
+#screenshots/
+
+# Streamlit .streamlit folder
+.streamlit/
+
+# VS Code settings
+.vscode/
